@@ -1,8 +1,9 @@
 import debug, { Debugger } from 'debug'
 import * as Puppeteer from './puppeteer'
+import { merge } from 'lodash'
 
-/** @private */
-const merge = require('merge-deep')
+// /** @private */
+// const merge = require('merge-deep')
 
 export interface PluginOptions {
   [key: string]: any
