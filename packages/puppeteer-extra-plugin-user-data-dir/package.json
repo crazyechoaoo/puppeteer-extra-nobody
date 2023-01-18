@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer-extra-plugin-user-data-dir",
+  "name": "puppeteer-extra-plugin-nobody-user-data-dir",
   "version": "2.4.0",
   "description": "Custom user data directory for puppeteer.",
   "main": "index.js",

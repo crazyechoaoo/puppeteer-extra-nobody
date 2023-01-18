@@ -1,6 +1,5 @@
 {
   "name": "puppeteer-extra-plugin-user-preferences",
-  "private": "true",
   "version": "2.4.0",
   "description": "Launch puppeteer with arbitrary user preferences.",
   "main": "index.js",
@@ -35,7 +34,7 @@
     "debug": "^4.1.1",
     "deepmerge": "^4.2.2",
     "puppeteer-extra-plugin-nobody": "^3.2.2",
-    "puppeteer-extra-plugin-user-data-dir": "^2.4.0"
+    "puppeteer-extra-plugin-nobody-user-data-dir": "^2.4.0"
   },
   "peerDependencies": {
     "playwright-extra": "*",
