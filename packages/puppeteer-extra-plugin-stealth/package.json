@@ -1,6 +1,6 @@
 {
   "name": "puppeteer-extra-nobody-plugin-stealth",
-  "version": "2.11.3",
+  "version": "2.11.4",
   "description": "Stealth mode: Applies various techniques to make detection of headless puppeteer harder.",
   "main": "index.js",
   "typings": "index.d.ts",
@@ -52,7 +52,7 @@
   },
   "dependencies": {
     "debug": "^4.1.1",
-    "puppeteer-extra-nobody-plugin": "^3.2.4",
+    "puppeteer-extra-nobody-plugin": "^3.2.5",
     "puppeteer-extra-plugin-user-preferences": "^2.4.1"
   },
   "peerDependencies": {

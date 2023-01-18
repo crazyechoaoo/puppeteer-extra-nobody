@@ -1,6 +1,6 @@
 {
   "name": "puppeteer-extra-nobody-plugin-devtools",
-  "version": "2.4.6",
+  "version": "2.4.7",
   "description": "Make puppeteer browser debugging possible from anywhere (devtools with screencasting on the internet).",
   "main": "index.js",
   "repository": "berstend/puppeteer-extra",

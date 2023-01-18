@@ -1,6 +1,6 @@
 {
   "name": "puppeteer-extra-nobody-plugin-user-preferences",
-  "version": "2.4.2",
+  "version": "2.4.3",
   "description": "Launch puppeteer with arbitrary user preferences.",
   "main": "index.js",
   "repository": "berstend/puppeteer-extra",
