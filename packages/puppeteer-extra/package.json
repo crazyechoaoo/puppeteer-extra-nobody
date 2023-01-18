@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer-extra",
+  "name": "puppeteer-extra-nobody",
   "version": "3.3.5",
   "description": "Teach puppeteer new tricks through plugins.",
   "repository": "berstend/puppeteer-extra",
@@ -83,5 +83,5 @@
       "optional": true
     }
   },
-  "gitHead": "babb041828cab50c525e0b9aab02d58f73416ef3"
+  "gitHead": "09e31485cfd445207d939c2deeb8d75c23e35e8b"
 }

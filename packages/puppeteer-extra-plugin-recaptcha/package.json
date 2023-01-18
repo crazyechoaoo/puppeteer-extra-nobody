@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer-extra-plugin-recaptcha",
+  "name": "puppeteer-extra-nobody-plugin-recaptcha",
   "version": "3.6.7",
   "description": "A puppeteer-extra plugin to solve reCAPTCHAs and hCaptchas automatically.",
   "main": "dist/index.cjs.js",
@@ -84,5 +84,5 @@
       "optional": true
     }
   },
-  "gitHead": "babb041828cab50c525e0b9aab02d58f73416ef3"
+  "gitHead": "09e31485cfd445207d939c2deeb8d75c23e35e8b"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer-extra-plugin-flash",
+  "name": "puppeteer-extra-nobody-plugin-flash",
   "version": "2.3.3",
   "description": "Allow flash on all sites without user interaction.",
   "main": "index.js",
@@ -46,5 +46,5 @@
       "optional": true
     }
   },
-  "gitHead": "babb041828cab50c525e0b9aab02d58f73416ef3"
+  "gitHead": "09e31485cfd445207d939c2deeb8d75c23e35e8b"
 }

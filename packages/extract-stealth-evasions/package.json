@@ -27,5 +27,6 @@
     "puppeteer-extra-plugin-stealth": "^2.11.2",
     "terser": "^5.1.0",
     "yargs": "^15.4.1"
-  }
+  },
+  "gitHead": "09e31485cfd445207d939c2deeb8d75c23e35e8b"
 }

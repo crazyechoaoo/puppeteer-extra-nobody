@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer-extra-plugin-block-resources",
+  "name": "puppeteer-extra-nobody-plugin-block-resources",
   "version": "2.4.3",
   "description": "Block resources (images, media, etc.) in puppeteer.",
   "main": "index.js",
@@ -44,5 +44,5 @@
       "optional": true
     }
   },
-  "gitHead": "babb041828cab50c525e0b9aab02d58f73416ef3"
+  "gitHead": "09e31485cfd445207d939c2deeb8d75c23e35e8b"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer-extra-plugin-click-and-wait",
+  "name": "puppeteer-extra-nobody-plugin-click-and-wait",
   "version": "2.3.3",
   "description": "Convenience function to wait for navigation to complete after clicking on an element.",
   "main": "index.js",
@@ -45,5 +45,5 @@
       "optional": true
     }
   },
-  "gitHead": "babb041828cab50c525e0b9aab02d58f73416ef3"
+  "gitHead": "09e31485cfd445207d939c2deeb8d75c23e35e8b"
 }

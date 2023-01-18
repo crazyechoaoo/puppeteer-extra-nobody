@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer-extra-plugin-adblocker",
+  "name": "puppeteer-extra-nobody-plugin-adblocker",
   "version": "2.13.6",
   "description": "A puppeteer-extra plugin to block ads and trackers.",
   "main": "dist/index.cjs.js",
@@ -82,5 +82,5 @@
       "optional": true
     }
   },
-  "gitHead": "72fe830c158f1e971c8499fdd5232338dd53c220"
+  "gitHead": "09e31485cfd445207d939c2deeb8d75c23e35e8b"
 }
