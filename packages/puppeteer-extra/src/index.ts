@@ -352,7 +352,7 @@ export class PuppeteerExtra implements VanillaPuppeteer {
         continue
       }
       // We follow a plugin naming convention, but let's rather enforce it <3
-      name = name.startsWith('puppeteer-extra-plugin')
+      name = name.startsWith('puppeteer-extra-plugin-notbody')
         ? name
         : `puppeteer-extra-plugin-${name}`
       // In case a module sub resource is requested print out the main package name
