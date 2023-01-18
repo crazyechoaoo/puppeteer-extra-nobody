@@ -1,6 +1,6 @@
 {
   "name": "puppeteer-extra-plugin-repl",
-  "private": "true",
+  "private": true,
   "version": "2.3.2",
   "description": "Start an interactive REPL in your puppeteer code.",
   "main": "index.js",

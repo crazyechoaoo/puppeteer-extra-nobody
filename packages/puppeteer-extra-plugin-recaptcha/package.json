@@ -1,6 +1,6 @@
 {
   "name": "puppeteer-extra-plugin-recaptcha",
-  "private": "true",
+  "private": true,
   "version": "3.6.6",
   "description": "A puppeteer-extra plugin to solve reCAPTCHAs and hCaptchas automatically.",
   "main": "dist/index.cjs.js",

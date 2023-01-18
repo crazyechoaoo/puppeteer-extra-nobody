@@ -1,6 +1,6 @@
 {
   "name": "extract-stealth-evasions",
-  "private": "true",
+  "private": true,
   "version": "2.7.1",
   "description": "Extract stealth evasions from puppeteer-extra-plugin-stealth",
   "main": "index.js",
