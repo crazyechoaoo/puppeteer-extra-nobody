@@ -1,6 +1,5 @@
 {
   "name": "puppeteer-extra-plugin-user-data-dir",
-  "private": "true",
   "version": "2.4.0",
   "description": "Custom user data directory for puppeteer.",
   "main": "index.js",
@@ -35,7 +34,7 @@
   "dependencies": {
     "debug": "^4.1.1",
     "fs-extra": "^10.0.0",
-    "puppeteer-extra-plugin": "^3.2.2",
+    "puppeteer-extra-plugin-nobody": "^3.2.2",
     "rimraf": "^3.0.2"
   },
   "peerDependencies": {

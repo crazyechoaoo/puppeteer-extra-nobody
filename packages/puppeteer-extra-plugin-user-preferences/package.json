@@ -34,7 +34,7 @@
   "dependencies": {
     "debug": "^4.1.1",
     "deepmerge": "^4.2.2",
-    "puppeteer-extra-plugin": "^3.2.2",
+    "puppeteer-extra-plugin-nobody": "^3.2.2",
     "puppeteer-extra-plugin-user-data-dir": "^2.4.0"
   },
   "peerDependencies": {
