@@ -52,7 +52,7 @@
   },
   "dependencies": {
     "debug": "^4.1.1",
-    "puppeteer-extra-plugin-notbody": "^3.2.3",
+    "puppeteer-extra-plugin-notbody": "^3.2.4",
     "puppeteer-extra-plugin-notbody-user-preferences": "^2.4.0"
   },
   "peerDependencies": {
