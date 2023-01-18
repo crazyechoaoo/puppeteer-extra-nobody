@@ -50,5 +50,5 @@
     "**/fsevents": "^2.1.2"
   },
   "dependencies": {},
-  "version": "0.0.0"
+  "version": "0.0.1"
 }
