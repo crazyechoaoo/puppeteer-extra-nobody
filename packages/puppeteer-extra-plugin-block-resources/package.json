@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer-extra-plugin-nobody-block-resources",
+  "name": "puppeteer-extra-plugin-notbody-block-resources",
   "version": "2.4.2",
   "description": "Block resources (images, media, etc.) in puppeteer.",
   "main": "index.js",
@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "debug": "^4.1.1",
-    "puppeteer-extra-plugin-nobody": "^3.2.3"
+    "puppeteer-extra-plugin-notbody": "^3.2.3"
   },
   "peerDependencies": {
     "puppeteer-extra": "*"
@@ -44,5 +44,5 @@
       "optional": true
     }
   },
-  "gitHead": "babb041828cab50c525e0b9aab02d58f73416ef3"
+  "gitHead": "bc09981322a8b2d922645c7114f7201f700057b9"
 }

@@ -1,6 +1,6 @@
 'use strict'
 
-const { PuppeteerExtraPlugin } = require('puppeteer-extra-plugin-nobody')
+const { PuppeteerExtraPlugin } = require('puppeteer-extra-plugin-notbody')
 
 const utils = require('../_utils')
 const withUtils = require('../_utils/withUtils')

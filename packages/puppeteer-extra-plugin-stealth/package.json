@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer-extra-plugin-nobody-stealth",
+  "name": "puppeteer-extra-plugin-notbody-stealth",
   "version": "2.11.1",
   "description": "Stealth mode: Applies various techniques to make detection of headless puppeteer harder.",
   "main": "index.js",
@@ -52,8 +52,8 @@
   },
   "dependencies": {
     "debug": "^4.1.1",
-    "puppeteer-extra-plugin-nobody": "^3.2.3",
-    "puppeteer-extra-plugin-nobody-user-preferences": "^2.4.0"
+    "puppeteer-extra-plugin-notbody": "^3.2.3",
+    "puppeteer-extra-plugin-notbody-user-preferences": "^2.4.0"
   },
   "peerDependencies": {
     "playwright-extra": "*",
@@ -67,5 +67,5 @@
       "optional": true
     }
   },
-  "gitHead": "babb041828cab50c525e0b9aab02d58f73416ef3"
+  "gitHead": "bc09981322a8b2d922645c7114f7201f700057b9"
 }

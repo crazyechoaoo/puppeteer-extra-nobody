@@ -1,6 +1,6 @@
 'use strict'
 
-const { PuppeteerExtraPlugin } = require('puppeteer-extra-plugin-nobody')
+const { PuppeteerExtraPlugin } = require('puppeteer-extra-plugin-notbody')
 
 /**
  * Stealth mode: Applies various techniques to make detection of headless puppeteer harder. 💯

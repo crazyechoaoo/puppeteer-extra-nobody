@@ -1,6 +1,6 @@
 'use strict'
 
-const { PuppeteerExtraPlugin } = require('puppeteer-extra-plugin-nobody')
+const { PuppeteerExtraPlugin } = require('puppeteer-extra-plugin-notbody')
 
 /**
  * Minimal stealth plugin template, not being used. :-)

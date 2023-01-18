@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer-extra-plugin-nobody-user-preferences",
+  "name": "puppeteer-extra-plugin-notbody-user-preferences",
   "version": "2.4.0",
   "description": "Launch puppeteer with arbitrary user preferences.",
   "main": "index.js",
@@ -33,8 +33,8 @@
   "dependencies": {
     "debug": "^4.1.1",
     "deepmerge": "^4.2.2",
-    "puppeteer-extra-plugin-nobody": "^3.2.3",
-    "puppeteer-extra-plugin-nobody-user-data-dir": "^2.4.0"
+    "puppeteer-extra-plugin-notbody": "^3.2.3",
+    "puppeteer-extra-plugin-notbody-user-data-dir": "^2.4.0"
   },
   "peerDependencies": {
     "playwright-extra": "*",
@@ -48,5 +48,5 @@
       "optional": true
     }
   },
-  "gitHead": "babb041828cab50c525e0b9aab02d58f73416ef3"
+  "gitHead": "bc09981322a8b2d922645c7114f7201f700057b9"
 }

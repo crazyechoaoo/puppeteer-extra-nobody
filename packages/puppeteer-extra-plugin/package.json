@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer-extra-plugin-nobody",
+  "name": "puppeteer-extra-plugin-notbody",
   "version": "3.2.3",
   "description": "Base class for puppeteer-extra plugins.",
   "main": "dist/index.cjs.js",
@@ -79,5 +79,5 @@
       "optional": true
     }
   },
-  "gitHead": "babb041828cab50c525e0b9aab02d58f73416ef3"
+  "gitHead": "bc09981322a8b2d922645c7114f7201f700057b9"
 }
