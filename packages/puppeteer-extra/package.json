@@ -1,5 +1,6 @@
 {
   "name": "puppeteer-extra",
+  "private": "true",
   "version": "3.3.4",
   "description": "Teach puppeteer new tricks through plugins.",
   "repository": "berstend/puppeteer-extra",

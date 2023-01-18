@@ -1,5 +1,6 @@
 {
   "name": "puppeteer-extra-plugin-user-preferences",
+  "private": "true",
   "version": "2.4.0",
   "description": "Launch puppeteer with arbitrary user preferences.",
   "main": "index.js",

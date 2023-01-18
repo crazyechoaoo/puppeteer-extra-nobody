@@ -4,6 +4,7 @@
   "description": "Allow flash on all sites without user interaction.",
   "main": "index.js",
   "repository": "berstend/puppeteer-extra",
+  "private": "true",
   "author": "berstend",
   "license": "MIT",
   "scripts": {
