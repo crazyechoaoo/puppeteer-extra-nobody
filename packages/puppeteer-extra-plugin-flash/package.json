@@ -1,6 +1,6 @@
 {
   "name": "puppeteer-extra-nobody-plugin-flash",
-  "version": "2.3.3",
+  "version": "2.3.4",
   "description": "Allow flash on all sites without user interaction.",
   "main": "index.js",
   "repository": "berstend/puppeteer-extra",

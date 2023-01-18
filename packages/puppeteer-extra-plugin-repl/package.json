@@ -1,6 +1,6 @@
 {
   "name": "puppeteer-extra-nobody-plugin-repl",
-  "version": "2.3.3",
+  "version": "2.3.4",
   "description": "Start an interactive REPL in your puppeteer code.",
   "main": "index.js",
   "types": "index.d.ts",
